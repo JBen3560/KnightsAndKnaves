@@ -1,2 +1,2 @@
 # KnightsAndKnaves
-Generate a puzzle with 2-20 random knights and knaves
+Generate and find all solutions for a puzzle with 2-20 random knights and knaves
